@@ -12,7 +12,7 @@ class ViewController: UIViewController,CLLocationManagerDelegate {
     
     var Locationlatitude : Double = 0.0
     var Locationlongitude : Double = 0.0
-    let apiKeyID = "d324702e67d2d8f98ceb69c10631e313"
+    let apiKeyID = "edc611ce700a878efe118dc8859f30e4"
     
     let locationManager : CLLocationManager = CLLocationManager()
     
