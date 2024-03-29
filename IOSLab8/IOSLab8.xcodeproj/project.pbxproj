@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		131BF3A82BB73FCE007BB2A8 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 131BF3A72BB73FCE007BB2A8 /* Weather.swift */; };
 		13CD79D22BB5FAAF00FE4CB7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13CD79D12BB5FAAF00FE4CB7 /* AppDelegate.swift */; };
 		13CD79D42BB5FAAF00FE4CB7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13CD79D32BB5FAAF00FE4CB7 /* SceneDelegate.swift */; };
 		13CD79D62BB5FAAF00FE4CB7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13CD79D52BB5FAAF00FE4CB7 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		131BF3A72BB73FCE007BB2A8 /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
 		13CD79CE2BB5FAAF00FE4CB7 /* IOSLab8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOSLab8.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13CD79D12BB5FAAF00FE4CB7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		13CD79D32BB5FAAF00FE4CB7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				13CD79D12BB5FAAF00FE4CB7 /* AppDelegate.swift */,
+				131BF3A72BB73FCE007BB2A8 /* Weather.swift */,
 				13CD79D32BB5FAAF00FE4CB7 /* SceneDelegate.swift */,
 				13CD79D52BB5FAAF00FE4CB7 /* ViewController.swift */,
 				13CD79D72BB5FAAF00FE4CB7 /* Main.storyboard */,
@@ -265,6 +268,7 @@
 				13CD79D22BB5FAAF00FE4CB7 /* AppDelegate.swift in Sources */,
 				13CD79DC2BB5FAAF00FE4CB7 /* IOSLab8.xcdatamodeld in Sources */,
 				13CD79D42BB5FAAF00FE4CB7 /* SceneDelegate.swift in Sources */,
+				131BF3A82BB73FCE007BB2A8 /* Weather.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
